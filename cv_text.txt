@@ -1,0 +1,401 @@
+Assistant Professor, University of Limerick | Google Scholar citations: 454 | h-index: 10 (24^(th) April 2026)
+
++--------------------------------------+-----------------------------------------+
+| Contact info                         | Google scholar profileOfficial web page |
+|                                      |                                         |
+| E-mail:                              | Twitter: @SrebLetina                    |
+|                                      |                                         |
+| srebrenka.letina@ul.ie;              | GitHub account                          |
+|                                      |                                         |
+| sreb.letina@gmail.com                |                                         |
+|                                      |                                         |
+| Mobile: +353899436572; +385989436956 |                                         |
++--------------------------------------+-----------------------------------------+
+
+Professional Profile
+
+-   Quantitative social scientist with two PhDs in Psychology and Network Science.
+
+-   Interdisciplinary researcher
+
+-   Current Assistant Professor with expertise in advanced quantitative methods, computational social science, network analysis, and postgraduate methods teaching.
+
+Current Academic Appointments
+
+-   Assistant Professor, Department of Psychology, University of Limerick (2025–present).
+
+-   Honorary Research Fellow, School or Health & Wellbeing, University of Glasgow (2025–present).
+
+Education
+
+-   PhD in Network Science, Central European University (2023).
+
+-   PhD in Psychology, University of Zagreb (2014).
+
+-   Diploma in Psychology, University of Zagreb (2007).
+
+Academic Employment
+
+-   Research Associate, School of Health & Wellbeing, University of Glasgow, UK (2021–2025).
+
+-   Postdoctoral Researcher, The Institute for Analytical Sociology, Linköping University, Sweden (2019–2021).
+
+-   Postdoctoral Researcher, Computational Social Science - Research Centre for Educational and Network Studies (CSS-RECENS), Hungarian Academy of Sciences, Hungary (2017–2019).
+
+-   Researcher, Institute for Social Research, Croatia (2011 – 2017).
+
+-   Researcher, National Library, Croatia (2008 – 2011).
+
+    Non-academic employment
+
+-   Researcher, Growth from Knowledge, Croatia (2008 – 2011).
+
+Research visits
+
+-   Visiting Researcher, Complexity Science Hub, Vienna, Austria – working on population hospital data to map comorbidity of mental disorders, 2018.
+
+-   Visiting Scholar, University of Amsterdam, Psychological methods, Amsterdam, the Netherlands. Supervised by Professor Denny Borsboom, 2018 (two months).
+
+    Visiting Postdoctoral Scholar (Endeavour Fellowship), University of Melbourne, School of Psychological Sciences, Social networks laboratory, Melbourne, Australia, 2015 (six months).
+
+Research Expertise
+
+-   Advanced quantitative methods; computational social science; social network analysis; behavioural and health data; peer influence; online communities; mixed methods for complex systems.
+
+-   Experience in working with different types of data: Psychometric data; Social network (relational) data (egocentric, sociocentric, bipartite); Social networks platforms online (Reddit); Bibliometric data; Population register data – hospital data.
+
+Methods & Programming
+
+-   Advanced R and Python use, collaborative coding using Git/GitHub, and Open Science (pre-registration).
+
+-   GLMs, multilevel models, missing data, meta-analysis, cluster analysis/latent profile analysis, Bayesian approaches, machine learning, simulation, agent-based modelling.
+
+-   Statistical models for network data (ERGM, SAOM, TERGM, MRQAP, ALAAM, etc.), Gaussian graphical models.
+
+Teaching Experience
+
+-   Scheduled lecturer (from Sept 2026): Network Analysis, MSc Applied Social Data Analytics, University of Limerick.
+
+-   Module leader (2025): Network Analysis; Doctoral programme in Sociology, University of Zagreb.
+
+-   Module Leader (2025): Advanced Analysis in Psychology I; MSc Psychology, University of Limerick.
+
+-   Module Leader (2026): Advanced Analysis in Psychology II; MSc Psychology, University of Limerick.
+
+-   Co-teaching (2026): Psychology in Everyday Life, undergraduate programme in Psychology & Sociology University of Limerick.
+
+-   Co-teaching (2023, 2024, 2025): Behavioural Mechanisms in the Social Sciences; MSc in Computational Social Science, Linköping University
+
+-   Co-teaching (2023, 2024): Introduction to Networks and Health Improvements, on-line workshop, University of Glasgow.
+
+-   Co-teaching (2019): Social Networks, MSc in Computational Social Science, Linköping University
+
+    Workshops:
+
+-   Sunbelt conference, Co-occurrence networks (July 2025).
+
+-   Sunbelt conference, SOCITS: Integrating Social Network Analysis in Mental Health Research through Qualitative, Quantitative, Simulation, and Systems Thinking Methods (July 2025).
+
+-   Scottish Graduate School of Social Science, Summer School Programme, Workshop: Introduction to quantitative analysis of social network data with R (July 2024)
+
+-   Scottish Graduate School of Social Science, Summer School Programme, Workshop: Network psychometrics: Network analysis applied to survey-based data with R (July 2024)
+
+-   Sunbelt conference, Workshop: Co-occurrence networks (July 2024).
+
+Curriculum Development & Leadership
+
+-   Co-designed the new MSc Applied Social Data Analytics programme (University of Limerick).
+
+-   Designed syllabi for Network Analysis module.
+
+-   Designed syllabi for Introduction to Data Analytics and Data Visualisation and Data Processing module (University of Limerick)..
+
+-   Experience aligning quantitative curriculum with labour-market relevant analytics skills.
+
+Student Supervision
+
+-   11 undergraduate dissertations supervised (Psychology & Sociology, University of Limerick).
+
+-   MSc supervision including MSc in Computational Social Science, MSc in Psychology, and MSc in Public Health (in total 9 supervisions)
+
+-   PhD supervision/co-supervision for Department of Network and Data Science, Central European University and Public Health, University of Glasgow (in total 2 supervisions).
+
+Membership of PhD’s Committees:
+
+-   2024. University of Seville (Spain), Department of Social Psychology.
+
+-   2024. University of Milan (Italy), Department of Social & Political Sciences.
+
+Course Administration
+
+-   Module leadership including scheduling, assessments, marking coordination, student communication, and academic support.
+
+-   Experience with Brightspace and comparable virtual learning environments.
+
+Teaching Quality Evidence
+
+-   Student evaluation (Advanced Analysis in Psychology II): Global Index 4.8/6; Student Engagement 5.4/6.
+
+-   Students praised clarity of materials, extra support sessions, accessibility, and step-by-step R teaching.
+
+Invited Talks, Workshops & Conference Presence
+
+-   Invited doctoral workshop in Network Analysis, University of Zagreb, Department of Sociology.
+
+-   Presentations/workshops at Sunbelt and European Conference on Social Networks.
+
+-   Invited talks:
+
+-   "Why networks matter for psychology? Incorporating Networks into Psychology" - Centre for Social Issues Research, University of Limerick, Ireland, October 2025.
+
+-   "The Social and the Psychological: Integrating Networks Science & Psychology" - Seminar Series, Department of Psychology, Ireland, October 2025.
+
+-   "Adolescents' social networks in schools and their health-related outcomes" - Seminars at Mitchell Centre, University of Manchester, UK, 2023.
+
+-   "Using comorbidity networks to understand psychopathology". - Workshop "Towards A Theory of Health Trajectories from Longitudinal Data", Complexity Science Hub, Vienna, Austria, 2019.
+
+-   "Putting individuals back into the network: Some theoretical and analytical approaches on the individual-actor level attributes' effects on network structure" - Hungarian Academy of Sciences, Computational Social Science - Research Centre for Educational and Network Studies (CSS-RECENS), Budapest, Hungary, 2017.
+
+-   In last five years, presented over 20 presentations in scientific conferences in fields of social networks, computational social science, psychology, sociology and public health. For details see section Conference presentations.
+
+Grants, Awards & Fellowships
+
+-   Principal Investigator, Formas Sweden grant (5 million SEK).
+
+-   Endeavour Fellowship, Australian Government.
+
+-   Marie Skłodowska-Curie Seal of Excellence (twice).
+
+-   Award for Advanced Doctoral Students, Central European University (2019)
+
+-   Graduate House Research Acknowledgement Reward, by The Graduate Union of the University of Melbourne Inc. (2015)
+
+-   Postgraduate Fellowship, Ministry of Education, Science and Sports of Croatia (2009)
+
+Publications
+
+Peer-reviewed & published
+
+-   Štulhofer, A., Tafro, A., Letina, S., Higashi, Y., Pietras, L., Carvalheira, A., ... & Koletić, G. (2026). Is successful sexual aging culture-specific? A network analytic assessment in four countries. Sexual Health, SH25095.
+
+-   Evkovski, B., Letina, S., & Kralj-Novak, P. (2026). The Structure of Psychopathology on Reddit: Network Analysis of Mental Health Communities in Relation to the ICD Diagnostic System. Journal of Medical Internet Research, Vol 28.
+
+-   Riddell, J., Letina, S., Skivington, K., Archambault, D., Wells, V., Long, E., ... & McCann, M. (2025). Methods for interventions using networks to improve health: A narrative synthesis of methodological research on network data collection, visualisation and intervention. Social Networks.
+
+-   Evkoski, B., Letina, S., Kralj Novak, P., & Riddell, J. (2025). Premenstrual dysphoric disorder in online peer support communities: a Reddit case study. Scientific Reports, 15(1), 34300.
+
+-   Long, E., Aminu, A. Q., Letina, S., Goodfellow, C., & McCann, M. (2025). Mental health discussions among rural residents: a social network approach. Rural and Remote Health, 25(3), 1-10.
+
+-   Anderson, M., Letina, S., McCann, M., Milicev, J., Dibben, G., MacDonald, A., ... & Long, E. (2025). Social network characteristics associated with mid-to-older aged adults’ co-engagement in physical activity. PLoS One, 20(5), e0319981.
+
+-   Schofield, J., Papathomas, M., Macnamara, C., McCann, M., Ardestani, B. M., Skivington, K., ..., Letina, S., …,& Baldacchino, A. (2025). Contextualising multimorbidity in people who use drugs: analysis of drug-death decedents in Scotland. Irish Journal of Psychological Medicine, 1-9.
+
+-   Bassi, E., Lustenberger, M., & Letina, S. (2025). Blockchain-based voluntary carbon market: strategic insights into network structure. Frontiers in Blockchain, 8, 1603695.
+
+-   
+
+-   McCann, M., Bianchi, F., Letina, S., Stewart, S., MacLeod, K., & Tranmer, M. (2024). A social network analysis approach to studying whole system disruption related to COVID19 among people who use drugs in Scotland. Addiction Science & Clinical Practice 19 (1), 42.Long, E., Thomson, M., Milicev, J., Goodfellow, C., Letina, S., Bradley, S., & McCann, M. (2024). Loneliness, social support, and social networks: urban–rural variation and links to wellbeing in Scotland. Journal of Public Health, 1-11.
+
+-   
+
+-   Letina, S., Long, E., McCrorie, P., Mitchell, K., Zucca, C., Riddell, J., ... & McCann, M. (2024). Cross-sectional social network study of adolescent peer group variation in substance use and mental wellbeing: The importance of the meso-level. Social Networks.Letina, S., Long, E., Mitchell, K., Zucca, C., & McCann, M. (2023). Peer effects on health-related behaviours of adolescents in Scotland using social network analysis: a cross-sectional study. The Lancet, 402, S8.
+
+-   
+
+-   Wismans, A., van der Zwan, P., Wennberg, K., Franken, I., Mukerjee, J., Baptista, R., ...Letina, S.,… & Thurik, R. (2022). Face mask use during the COVID-19 pandemic: how risk perception, experience with COVID-19, and attitude towards government interact with country-wide policy stringency. BMC public health, 22(1), 1-14. Takács, K., Gross, J., Testori, M., Letina, S., Kenny, A. R., Power, E. A., & Wittek, R. P. (2021). Networks of reliable reputations and cooperation: a review. Philosophical Transactions of the Royal Society B, 376(1838), 20200297.
+
+-   
+
+-   Wismans, A., Letina, S., Wennberg, K., Thurik, R., Baptista, R., Burke, A., ... & Franken, I. (2021). The role of impulsivity and delay discounting in student compliance with COVID-19 protective measures. Personality and Individual Differences, 179, 110925.
+
+-   Wismans, A. B., Letina, S., Thurik, R., Wennberg, K., Baptista, R., Barrientos Marín, J., ... & Torrès, O. (2020). Hygiene and social distancing as distinct public health related behaviours among university students during the COVID-19 pandemic. Social Psychological Bulletin, 15(4).
+
+-   Maya-Jariego, I., Letina, S., & Tinoco, E. G. (2019). Personal networks and psychological attributes: Exploring individual differences in personality and sense of community and their relationship to the structure of personal networks. Network Science, 1-21.
+
+-   Letina, S., Blanken, T. F., Deserno, M. K., & Borsboom, D. (2019). Expanding network analysis tools in psychological networks: Minimal spanning trees, participation coefficients, and motif analysis applied to a network of 26 psychological attributes. Complexity, 2019.
+
+-   Letina, S., Robins, G., & Maslić Seršić, D. (2016). Reaching out from a small scientific community: the social influence models of collaboration across national and disciplinary boundaries for scientists in three fields of social sciences. Revija za sociologiju, 46(2), 103-139.
+
+-   Letina, S. (2016). Network and actor attribute effects on the performance of researchers in two fields of social science in a small peripheral community. Journal of Informetrics, 10(2), 571-595.
+
+-   Letina, S., Zauder, K., & Jokić, M. (2012). The productivity of Croatian psychologists: A scientometric analysis of network cooperation on works indexed in the WoS database from 1991 to 2010. Suvremena psihologija, 15(1), 97-116. Jokić, M; Zauder, K.; Letina, S. Croatian scholarly productivity 1991–2005 measured by journals indexed in Web of Science. Scientometrics. 2010, 83 (2), 375-395.
+
+    Under review
+
+-   McCann, M., Letina, S., … & Skivington, K. Complex system structures related to drug deaths in Scotland: a network analytic approach to navigating linked administrative data and co-produced system maps. Submitted to Plos One.
+
+-   Gonzalez-Tinoco, E., Letina, S. & Maya-Jariego, I.: Attachment Styles Predict Personal Network Structure Better Than Big Five Traits. Under review. The Spanish Journal of Psychology.
+
+-   Krüger, H., Grund T., Letina S., Long E., Riddell J., Zucca C., & McCann M. Provided but not perceived? Dyadic discrepancies in emotional support perception and mental health in adolescent peer networks. Under review. Social Psychology Quarterly.
+
+-   Goodfellow, C., Bate, C., Shetty, J., Allen, J., Letina, S., Long, E., ... & Benjamin, M. (2026). Evidencing the relational and situated aspects of complex social systems affecting health: introducing an integrated mixed methods approach to understand school mental health. Under review. Social Science & Medicine.
+
+    In preparation
+
+-   Letina, S., Lewis, D, Long, E., & McCann. Peer similarity in adolescents’ health-related outcomes in school networks in datasets from 2006 and 2023. To be submitted to Social Networks.
+
+-   Schuler, P., Letina, S., & Takacs, K.: Holey diamond! Structural holes in signed networks. To be submitted to American Journal of Sociology.
+
+-   Nordlund, C., Letina, S., & Martinez Peña, R. The Computational Ethnographic Cycle: Iteration, Reflexivity, and Middle-Ground Knowledge in Computational Social Science
+
+    Other publications
+
+Non-peer reviewed papers:
+
+Letina, S. (2020). Book Review: How Behavior Spreads: The Science of Complex Contagions. JASSS: Journal of Artificial Societies and Social Simulation, 23(2).Wismans, A., Letina, S., Thurik, R., Wennberg, et al. (2020). Behaviour and Attitudes of Students Related to Government Public Health Restrictions During the COVID-19 Pandemic. Report of an International Study.
+
+Lewis, J. L., Letina, S., & Woelert, P. (2016). Research collaboration: Understanding disciplinary differences in structures and effects.Books/Monographs:
+
+Letina, S. (2017). Co-authorship networks of social scientists in Croatia: Introduction to Social Network Analysis. Publisher: Hrvatska Sveučilišna Naklada (Croatian University Press): Zagreb. Funded by Croatian Ministry of Science, Education and Sports.
+
+Jokić, M., Zauder, K., Letina, S. (2012). The features of Croatian national and international scholarly productivity in social sciences, arts, and humanities 1991-2005. Publisher: The Institute for Social Research: Zagreb.
+
+Membership Of Professional Societies
+
+-   International Network of Social Network Analysis
+
+-   Social Network Analysis in Scotland Group
+
+-   Women in Network Science.
+
+Academic Service
+
+-   Editorial Board member, PLOS ONE.
+
+-   Reviewer for Social Networks, Network Science, Journal of Artificial Societies and Social Simulation, Nature Reviews Methods Primers, PLOS Complex Systems, Social Science & Medicine, Addiction Research & Theory, Behaviour Research and Therapy, BMC Psychology, BMC Medical Research Methodology, Current Issues in Personality Psychology, Frontiers in Public Health, Journal of Informetrics, Journal of Personality Assessment, NPJ Mental Health Research, Public Sector Economics, Revija za Sociologiju [Sociology Review], Scientometrics, Schizophrenia Bulletin, Small Business Economics.
+
+Conference presentations (only from 2019)
+
+-   B Evkovski, S Letina, P Kralj Novak: The Reddit Network of Mental Health Support .Bojan Evkoski, Srebrenka Letina, Petra Kralj Novak. 11th International Conference on Computational Social Science. Norrköping, Sweden | July 21-24, 2025.
+
+-   P Schuler, S Letina, K Takacs. Holey diamonds: Embeddedness of structural holes in signed networks. 11th International Conference on Computational Social Science. Norrköping, Sweden | July 21-24, 2025.
+
+-   N Basov, S Letina, R Krause: Meaning of things: Modelling Social Construction of Reality. International Sunbelt Social Network Conference 2025, Paris, France.
+
+-   D Lewis, S Letina, M McCann, E Long: Integrating latent class and social network analyses to understand co-occurring health behaviours: a methodological investigation. International Sunbelt Social Network Conference 2025, Paris, France.
+
+-   S Letina, M McCann, E Long: Being a friend and being around: Situational variation in school networks. International Sunbelt Social Network Conference 2025, Paris, France.
+
+-   M McCann, S Letina, T Parkes, L Barnsdale, C Matheson, J Schofield, J Hilton, A Baldacchino, A Crofton, K Skivington: A mixed methods study of drug related deaths in Scotland using participatory system mapping and network analysis of linked administrative data. Society for Social Medicine & Population Health 68th Annual Scientific meeting 2024, Glasgow, UK.
+
+-   Letina, S, McCann, M. Peer group similarities in mental health outcomes among Scottish high school students. Society for Social Medicine & Population Health 68th Annual Scientific meeting 2024, Glasgow, UK.
+
+-   Letina S., McCann, M. How have the structures of adolescent school peer networks changed between 2006 and 2019? An investigation of high school students in Scotland. International Sunbelt Social Network Conference 2024, Edinburgh, UK.
+
+-   Letina, S. A cross-sectional study of peer effects on health-related behaviours of adolescents in Scotland using social network analysis. Public Health Science, UK, London, 2023.
+
+-   Lewis, D., Letina, S., Long, E., McCann, M. School connectedness and
+
+  adolescent mental health. 7^(th) European Conference on Social Networks, Slovenia, Ljubljana, 2023.
+
+-   Letina, S., Lewis, D., Schuler, P., McCann, M. Investigating the effect of
+
+  indirect negative ties. 7^(th) European Conference on Social Networks, Slovenia, Ljubljana, 2023.
+
+-   González-Tinoco, E., Letina, S., Maya-Jariego, I. Connecting Ego-nets Typologies with Adult Attachment Styles. 7^(th) European Conference on Social Networks, Slovenia, Ljubljana, 2023.
+
+-   Riddell, J., Archambault, D., Skivington, K., Letina S., Long E., McCann, M. Gathering, drawing and using social networks: A review of network methods on data collection, visualisation and interventions. 7^(th) European Conference on Social Networks, Slovenia, Ljubljana, 2023.
+
+-   Letina, S., McCann, M. The importance of the network meso-level: Similarity in substance use and mental wellbeing in adolescents’ peer groups in schools. 6th European Conference on Social Networks, London, UK, 2022.
+
+-   Schuler, P., Letina, S., Takacs, K. Holey Diamond! Structural holes in signed networks. 6^(th) European Conference on Social Networks, London, UK, 2022.
+
+-   Martinez-Peña, R, Letina, S. Linking threshold models of collective behaviour, small-world networks, and ecological change. International Sunbelt Social Network Conference, Cairns, Australia, 2022.
+
+-   Letina, S., Krause, R., Sebhatu, A., Wennberg, K., Takács, K. Social “contagion” while “together alone”: A study of social influence in compliance with Covid-19 recommendations among students in Sweden. Networks 2021: A joint Sunbelt and Netsci conference, Virtual, 2021.
+
+-   Schuler, P., Letina, S., Takács, K. The Broker’s Invisible Ties: Brokerage and Balance in
+
+-   Signed Networks. Networks 2021: A joint Sunbelt and Netsci conference, Virtual, 2021.
+
+-   Letina, S., McCann, M. Do health behaviours vary across network communities? An explorative study of contribution of community detection methods in understanding health behaviors among school peers. Networks 2021: A joint Sunbelt and Netsci conference, Virtual, 2021.
+
+-   Lengyel, B., Tóth, G., Letina, S.; Bíró, A. Spatial and Triadic Closure of Social Connections Increase Anti-Depression Usage. Networks 2021: A joint Sunbelt and Netsci conference, Virtual, 2021.
+
+-   Letina, S. Networks behind gossip and gossip ties as a hidden network in organizations: The role of structural balance and accuracy in knowledge about who is gossiping. International Sunbelt Social Network Conference, Virtual, 2020.
+
+-   Takacs, K., Lucic, M., Sliskovic, T., Letina, S. Do Brokers Gossip Strategically? Investigating Information Sharing and Control in Organizations Using Exponential Random Graph Models. International Sunbelt Social Network Conference, Montreal, Canada, 2019.
+
+-   Letina, S; Samu, F. Bringing the Balance Theory Back to the Individual in the Network: Proposed Measures of an Individual’s Embeddedness in Unbalanced Structures. International Sunbelt Social Network Conference, Montreal, Canada, 2019.
+
+Advanced Methods Training & Continuing Professional Development
+
+-   I have undertaken extensive continuing professional development in advanced quantitative methods, computational social science, open science, and data science. My training in social network analysis has included workshops and courses on temporal and dynamic network modelling, including Introduction to Temporal Exponential Random Graph Models (TERGMs) using statnet, SIENA longitudinal analysis of social networks, Advanced RSiena, Advanced RSiena and Relational Event Models, valued tie network modelling with statnet, moderation and mediation analysis in ERGMs using ergMargins, and research design workshops on network processes and configurations. I have also completed specialist training in multiplex, multimodal, and signed network analysis, including Multiplex Social Network Analysis with multip2, Multimodal Network Analysis with migraph, algebraic analysis and visualisation of multiple, signed and two-mode networks, and advanced metrics and diffusion modelling using manynet and migraph.
+
+-   My broader computational and quantitative training has included empirically calibrated network simulations, agent-based models in social network analysis using NetLogo, multilevel modelling, multilevel modelling for egocentric network analysis, missing data analysis using the mice R package, and workshops in design and execution of group experiments. In data science and programming, I completed a Data Science Bootcamp in Machine Learning in Python and The Data Scientist’s Toolbox. Additional specialist training has included the Psychological Networks Winter School, Complex Networks: Theory, Methods and Applications II, Social Network Approaches for Behaviour Change, and training in EgoWeb 2.0 social network data collection software.
+
+-   I am completing the Certificate in Learning, Teaching and Assessment in Higher Education (expected May 2026).
+
+Media Coverage
+
+My research has received media attention in several countries.
+
+-   Difficult friends and relatives could be making you age faster – new study
+
+  The Conversation – 13/03/2026
+
+-   Knitted Networks: Interview (Web)
+
+  24/06/2023
+
+  Interview with Srebrenka Letina.
+
+-   Rural Scots less likely to experience loneliness than urban people, study says (Web)
+    STV - 28/03/2024
+    People in rural Scottish communities experience less loneliness, according to a new study.
+
+-   Rural Scots less likely to experience loneliness than urban people, study says (Web)
+    The Courier UK - 27/03/2024
+    People in rural Scottish communities experience less loneliness, according to a new study.
+
+-   Rural residents feel less lonely than their urban neighbours (Web)
+    MyScience UK - 28/03/2024
+    People living in rural communities in Scotland are less likely to experience loneliness and poor wellbeing than those living in urban areas, according to new research from the University of Glasgow.
+
+-   Study finds rural Scots less likely to experience loneliness than urban people (Web)
+    Planet Radio - 28/03/2024
+    People in rural Scottish communities experience less loneliness, according to a new study.
+
+-   
+
+Svenska studenter slarviga med social distansering (Web)SVT Nyheter – 20/06/2020, Sweden
+
+Swedish students careless with social distancing - but good at hygiene.
+
+-   
+
+Svenska studenter bra på hygien – inte avstånd (Web)Aftonbladet - 09/07/2020, Sweden
+
+Swedish students are good at hygiene – not distance.
+
+-   Zaštita osobnih podataka: “Dobri” stručnjaci uvijek mogu naći rupe u zakonu! (Web)
+
+  Glas Slavonije – 26/05/2018, Croatia
+
+  Protection of personal data in social network research.
+
+References
+
+Robert Krause, Assistant Professor, University of Kentucky, USA.
+
+Discipline: Management, psychology and social networks, methodology.
+
+Email: Robert.w.Krause@uky.edu
+
+Relationship to the candidate: Co-worker, working together on research projects and teaching at previous academic position.
+
+Károly Takács, Professor, Linköping University, Institute for Analytical Sociology, Sweden.
+
+Discipline: Sociology, social networks.
+
+Email: karoly.takacs@liu.se
+
+Relationship to the candidate: Line manager at previous academic position.
+
+Mark McCann, Senior Research Fellow, University of Glasgow, MRC/CSO Social & Public Health Sciences Unit, UK.
+
+Discipline: Psychologist, public health researcher, methodology, social networks researcher.
+
+Email: Mark.McCann@glasgow.ac.uk
+
+Relationship to the candidate: Line manager at previous academic position.
